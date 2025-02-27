@@ -5,7 +5,7 @@ This repository contains the code and steps for preprocessing the Titanic datase
 ##  Dataset
 The dataset can be downloaded from [Kaggle](https://www.kaggle.com/competitions/titanic/data) and includes passenger information like age, gender, ticket class, and survival status.
 
-## 🛠 Preprocessing Steps
+##  Preprocessing Steps
 
 1. **Load the Data:**
    - Use `pandas` to load the CSV file into a DataFrame.
@@ -27,7 +27,7 @@ The dataset can be downloaded from [Kaggle](https://www.kaggle.com/competitions/
 6. **Split the Data:**
    - Divide the data into training and test sets using `train_test_split`.
 
-## 🏁 Final Processed Data
+##  Final Processed Data
 The cleaned and preprocessed data is ready for model training!
 
 ##  How to Run
@@ -44,7 +44,7 @@ The cleaned and preprocessed data is ready for model training!
   preprocessing.ipynb
    ```
 
-## 📘 Resources
+##  Resources
 - [Titanic Dataset on Kaggle](https://www.kaggle.com/competitions/titanic)
 - [Pandas Documentation](https://pandas.pydata.org/docs/)
 - [Scikit-learn Documentation](https://scikit-learn.org/stable/)
