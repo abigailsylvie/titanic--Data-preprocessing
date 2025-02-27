@@ -1,11 +1,11 @@
-# 🚢 Titanic Dataset: Data Preprocessing
+#  Titanic Dataset: Data Preprocessing
 
 This repository contains the code and steps for preprocessing the Titanic dataset, a classic dataset used for machine learning practice. The goal is to clean and prepare the data to improve model accuracy.
 
-## 📂 Dataset
+##  Dataset
 The dataset can be downloaded from [Kaggle](https://www.kaggle.com/competitions/titanic/data) and includes passenger information like age, gender, ticket class, and survival status.
 
-## 🛠️ Preprocessing Steps
+## 🛠 Preprocessing Steps
 
 1. **Load the Data:**
    - Use `pandas` to load the CSV file into a DataFrame.
@@ -30,18 +30,18 @@ The dataset can be downloaded from [Kaggle](https://www.kaggle.com/competitions/
 ## 🏁 Final Processed Data
 The cleaned and preprocessed data is ready for model training!
 
-## 🚀 How to Run
+##  How to Run
 1. Clone this repository:
    ```bash
    git clone https://github.com/yourusername/titanic-preprocessing.git
    ```
-2. Install required libraries:
+2.  open google colab:
    ```bash
-   pip install pandas scikit-learn matplotlib
+   upload the file preprocessing.ipynb
    ```
 3. Run the script:
    ```bash
-   python preprocess.py
+  preprocessing.ipynb
    ```
 
 ## 📘 Resources
